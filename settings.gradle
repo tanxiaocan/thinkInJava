@@ -1,0 +1,6 @@
+rootProject.name = 'thinkInJava'
+include 'threadTest'
+include 'innerClassTest'
+include 'model'
+include 'arethmetic'
+
